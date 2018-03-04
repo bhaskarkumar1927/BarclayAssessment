@@ -1,0 +1,9 @@
+2
+flashdrive H H
+ssd L H
+5
+flashdrive X 1.0
+ssd X 10.0
+flashdrive Y 0.9
+flashdrive Z 1.1
+ssd Y 12.5

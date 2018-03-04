@@ -1,0 +1,12 @@
+2
+mp3player H H
+ssd L L
+8
+ssd W 11.0
+ssd X 12.0
+mp3player X 60.0
+mp3player Y 20.0
+mp3player Z 50.0
+ssd V 10.0
+ssd Y 11.0
+ssd Z 12.0
